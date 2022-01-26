@@ -9,8 +9,8 @@ Omnifood is a premium food delivery service with the mission to bring affordable
 
 ## Technologies
 
-- HTML5
-- CSS3
+- HTML
+- CSS
 - Javascript
 - Jquery
 
